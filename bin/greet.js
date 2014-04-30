@@ -1,4 +1,4 @@
 #!/usr/bin/env node
 
-var greet = require("../lib/main.js");
-greet();
+var command = require('../lib/command');
+command();
