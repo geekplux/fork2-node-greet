@@ -23,8 +23,9 @@
   },
   "homepage": "https://github.com/geekplux/fork2-node-greet",
   "devDependencies": {
-    "mocha": "^1.18.2",
-    "chai": "^1.9.1"
+    "chai": "^1.10.0",
+    "coffee-script": "^1.8.0",
+    "mocha": "^1.21.5"
   },
   "dependencies": {
     "minimist": "0.0.8"
